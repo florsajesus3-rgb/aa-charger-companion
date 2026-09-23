@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Charger Companion</string>
+    <string name="home_title">Charger Companion</string>
+    <string name="home_blurb">Nearby places on Android Auto + a big Bluetooth media remote for your Uconnect.</string>
+    <string name="open_remote">Open media remote</string>
+    <string name="aa_hint">On Android Auto: open Charger Companion for Gas, Food, or Parking near you.</string>
+    <string name="remote_title">Media remote</string>
+    <string name="play_pause">Play / Pause</string>
+    <string name="skip_prev">Previous</string>
+    <string name="skip_next">Next</string>
+    <string name="vol_down">Vol −</string>
+    <string name="vol_up">Vol +</string>
+    <string name="no_session">No active media — start Netflix, YouTube, or Spotify, route audio to the car, then use these buttons.</string>
+    <string name="aa_places_title">Nearby</string>
+    <string name="aa_gas">Gas</string>
+    <string name="aa_food">Food</string>
+    <string name="aa_parking">Parking</string>
+</resources>
