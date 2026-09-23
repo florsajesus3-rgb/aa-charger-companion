@@ -7,6 +7,14 @@ Android app for a **2020 Dodge Charger / Uconnect 8.4** setup:
 
 This does **not** cast video onto Android Auto (Google doesn’t allow that). It solves the loud-speakers + nearby stops problem the legal way.
 
+## Download APK (easiest)
+
+Get the ready-made build from Releases:
+
+**https://github.com/florsajesus3-rgb/aa-charger-companion/releases/tag/v1.0.0**
+
+Install `ChargerCompanion-debug.apk` on your phone (allow “Install unknown apps”), grant location, then connect Android Auto.
+
 ## Build
 
 1. Install [Android Studio](https://developer.android.com/studio) (Ladybug or newer).
