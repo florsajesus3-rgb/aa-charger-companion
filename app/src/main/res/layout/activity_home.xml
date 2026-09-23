@@ -36,7 +36,17 @@
             android:text="@string/open_remote"
             android:textAllCaps="false" />
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNotifAccess"
+            style="@style/Widget.Material3.Button.TonalButton"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginTop="10dp"
+            android:text="Enable notification access (for remote)"
+            android:textAllCaps="false" />
+
         <TextView
+            android:id="@+id/setupHints"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
